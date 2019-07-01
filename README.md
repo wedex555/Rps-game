@@ -9,10 +9,10 @@ This game is played against the computer. <br>
           <img width="1480" alt="Screen Shot 2019-07-01 at 2 10 52 AM" src="https://user-images.githubusercontent.com/46644726/60424584-7ff23680-9ba5-11e9-93f7-9dd115fa3a13.png">
             ♦ If  user choose Scissors, you will win against Paper but lose against Rock.<br>
             <img width="1463" alt="Screen Shot 2019-07-01 at 2 21 43 AM" src="https://user-images.githubusercontent.com/46644726/60425378-3b679a80-9ba7-11e9-84d4-8da782952932.png">
-
-            
-
-      
+             ♦ If user choose Paper, you will win against Rock but lose against Scissors.<br>
+             <img width="1517" alt="Screen Shot 2019-07-01 at 2 25 06 AM" src="https://user-images.githubusercontent.com/46644726/60425510-87b2da80-9ba7-11e9-940b-d6bfccee0b3c.png"><br>
+             * If the user's choice and the computer's choice are the same it's a draw<br>
+             <img width="1517" alt="Screen Shot 2019-07-01 at 2 25 06 AM" src="https://user-images.githubusercontent.com/46644726/60425510-87b2da80-9ba7-11e9-940b-d6bfccee0b3c.png">
 
 This app is an online version of the game everyone loves...Rock Paper Scissors!
 Technologies include:
@@ -24,7 +24,7 @@ Technologies include:
 
          
 Here's how the game works!
- ♦ If you choose Paper, you will win against Rock but lose against Scissors.<br>
+
 
 2: Once they input a name, Firebase checks to see how many players have already joined. If there aren't any or just one, it puts them in the database as the respective player. If there are already two players, it will notify that person and not let them join.
 <br>
