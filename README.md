@@ -1,7 +1,16 @@
 # Rock Paper Scissors Multiplayer!
 rock paper scissor game with java script
 
-live demo https://wedex555.github.io/Rps-game/
+live demo https://wedex555.github.io/Rps-game/<br>
+
+This app is an online version of the game everyone loves...Rock Paper Scissors!
+Technologies include:
+- HTML
+- CSS
+- Javascript
+- JQuery
+- Google Firebase
+
 
 Here's how the game works!<br>
 The rules are very simple and probably you remember them from your childhood :<br>
@@ -15,13 +24,7 @@ This game is played against the computer. <br>
              * If the user's choice and the computer's choice are the same it's a draw<br>
              <img width="1444" alt="Screen Shot 2019-07-01 at 2 27 33 AM" src="https://user-images.githubusercontent.com/46644726/60425845-440ca080-9ba8-11e9-970b-78f97beba1df.png">
 
-This app is an online version of the game everyone loves...Rock Paper Scissors!
-Technologies include:
-- HTML
-- CSS
-- Javascript
-- JQuery
-- Google Firebase
+
 
          
 
