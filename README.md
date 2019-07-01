@@ -4,8 +4,10 @@ rock paper scissor game with java script
 live demo https://wedex555.github.io/Rps-game/
 - Basic Rules <br>
 The rules are very simple and probably you remember them from your childhood :<br>
-          ♦ If you choose Rock, you will win against Scissors but lose against Paper.<br>
-          ♦ If you choose Scissors, you will win against Paper but lose against Rock.<br>
+          ♦ If user chooses Rock, user will win against Scissors but lose against Paper.<br>
+          <img width="1480" alt="Screen Shot 2019-07-01 at 2 10 52 AM" src="https://user-images.githubusercontent.com/46644726/60424584-7ff23680-9ba5-11e9-93f7-9dd115fa3a13.png">
+
+          ♦ If  choose Scissors, you will win against Paper but lose against Rock.<br>
           ♦ If you choose Paper, you will win against Rock but lose against Scissors.<br>
 
 This app is an online version of the game everyone loves...Rock Paper Scissors!
