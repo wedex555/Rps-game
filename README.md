@@ -12,7 +12,7 @@ This game is played against the computer. <br>
              ♦ If user choose Paper, you will win against Rock but lose against Scissors.<br>
              <img width="1517" alt="Screen Shot 2019-07-01 at 2 25 06 AM" src="https://user-images.githubusercontent.com/46644726/60425510-87b2da80-9ba7-11e9-940b-d6bfccee0b3c.png"><br>
              * If the user's choice and the computer's choice are the same it's a draw<br>
-             <img width="1517" alt="Screen Shot 2019-07-01 at 2 25 06 AM" src="https://user-images.githubusercontent.com/46644726/60425510-87b2da80-9ba7-11e9-940b-d6bfccee0b3c.png">
+             <img width="1444" alt="Screen Shot 2019-07-01 at 2 27 33 AM" src="https://user-images.githubusercontent.com/46644726/60425845-440ca080-9ba8-11e9-970b-78f97beba1df.png">
 
 This app is an online version of the game everyone loves...Rock Paper Scissors!
 Technologies include:
