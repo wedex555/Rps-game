@@ -7,6 +7,10 @@ The rules are very simple and probably you remember them from your childhood :<b
 This game is played against the computer. <br>
           ♦ If user chooses Rock, user will win against Scissors but lose against Paper.<br>
           <img width="1480" alt="Screen Shot 2019-07-01 at 2 10 52 AM" src="https://user-images.githubusercontent.com/46644726/60424584-7ff23680-9ba5-11e9-93f7-9dd115fa3a13.png">
+            ♦ If  user choose Scissors, you will win against Paper but lose against Rock.<br>
+            <img width="1463" alt="Screen Shot 2019-07-01 at 2 21 43 AM" src="https://user-images.githubusercontent.com/46644726/60425378-3b679a80-9ba7-11e9-84d4-8da782952932.png">
+
+            
 
       
 
@@ -17,10 +21,10 @@ Technologies include:
 - Javascript
 - JQuery
 - Google Firebase
-  ♦ If  choose Scissors, you will win against Paper but lose against Rock.<br>
-          ♦ If you choose Paper, you will win against Rock but lose against Scissors.<br>
-Here's how the game works!
 
+         
+Here's how the game works!
+ ♦ If you choose Paper, you will win against Rock but lose against Scissors.<br>
 
 2: Once they input a name, Firebase checks to see how many players have already joined. If there aren't any or just one, it puts them in the database as the respective player. If there are already two players, it will notify that person and not let them join.
 <br>
