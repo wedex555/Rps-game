@@ -4,6 +4,8 @@ rock paper scissor game with java script
 live demo https://wedex555.github.io/Rps-game/<br>
 
 This app is an online version of the game everyone loves...Rock Paper Scissors!
+A player who decides to play rock will win if the computer has chosen scissors, but will lose if the computer choses paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). 
+If both the user and the computer choose the same shape, the game is tied and is usually immediately replayed to break the tie.<br>
 Technologies include:
 - HTML
 - CSS
